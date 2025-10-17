@@ -17,6 +17,8 @@ In this session, we will:
 
 Along the way, we will create a story in SAP Analytics Cloud to plan and report. 
 
+![](Misc/Flow.png)
+
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
