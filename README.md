@@ -1,16 +1,27 @@
-# Session ID - Session Title
+# DA267 - Seamless planning for xP&A in SAP Business Data Cloud (SAP BDC)
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called DA267 - Seamless planning for xP&A in SAP Business Data Cloud (SAP BDC).  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the seamless planning integration of SAP Analytics Cloud and SAP Datasphere in the context of SAP Business Data Cloud. 
+
+In this session, we will:
+- Leverage a view shared from the content of the Working Capital Insights app to create a planning model with a live connection to the view's data
+- Load master data from SAP Datasphere
+- Expose the planning model data in SAP Datasphere and build a plan vs. actual reporting using an analytic model and time-dependent master data
+- Extend the planning model with generic financial cost planning dimensions and measures
+- Integrate data from an HR planning model (shared with you) to derive personnel expenses
+
+Along the way, we will create a story in SAP Analytics Cloud to plan and report. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- Knowledge of planning in SAP Analytics Cloud
+- Basic understanding of the concepts of SAP Datasphere
 
 ## Exercises
 
