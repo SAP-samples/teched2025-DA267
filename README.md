@@ -19,6 +19,7 @@ Along the way, we will create a story in SAP Analytics Cloud to plan and report.
 
 We will abstract away from some of the complexity that such a use case would normally bring, e.g.
 - We will work in one planning model
+- We will work with a small set of dimensions
 - We will work with a simplified master data table w/o text tables, directories etc.
 - We will ignore multi-currency
 - We will use simplified, central planning assumptions
