@@ -23,7 +23,7 @@ We will abstract away from some of the complexity that such a use case would nor
 - We will ignore multi-currency
 - We will use simplified, central planning assumptions
 
-![](Misc/Flow.png)
+![](images/Flow.png)
 
 ## Requirements
 
