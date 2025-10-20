@@ -3,7 +3,7 @@ In this exercise, you will build a view from which we will later create a planni
 <br>You will use a view which was shared from another space and which was derived from a data product in the context of working capital insights. 
 
 1. Go to the databuilder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
-![](../../images/ex1.1_1.png)
+![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
 
 2. Choose your space
 
