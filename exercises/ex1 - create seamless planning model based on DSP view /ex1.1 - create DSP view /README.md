@@ -3,7 +3,7 @@ In this exercise, you will build a view from which we will later create a planni
 <br>You will use a view which was shared from another space and which was derived from a data product in the context of working capital insights. 
 
 1. Go to the databuilder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
-<br> ![](exercises/ex1 - create seamless planning model based on DSP view /images/Ex1.1_1.png)
+<br> ![](exercises/ex1.1/images/Ex1.1_1.png)
 2. Choose your space
 
 3. Create graphical view
