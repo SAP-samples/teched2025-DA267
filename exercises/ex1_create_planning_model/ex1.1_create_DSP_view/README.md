@@ -7,22 +7,22 @@ In this exercise, you will build a view from which we will later create a planni
 
 2. Choose your space
 
-3. Create graphical view
+4. Create graphical view
 
-4. Pull the shared view "Net Working Capital Time Series Currency Role (HL)" on to the canvas
+5. Pull the shared view "Net Working Capital Time Series Currency Role (HL)" on to the canvas
 
-5. Add a filter on the year 2024 and enter the following expression: 
+6. Add a filter on the year 2024 and enter the following expression: 
    <br>```TimeSeriesYearMonth >=202401```
 
-6. Add a projection and remove all columns except
+7. Add a projection and remove all columns except
    - YearMonth
    - Net Working Capital
    - Company Code
   The easiest way to achieve this, is to first select all columns, exclude all columns and afterwards restore the three needed columns. 
 
-7. Set the right view properties
+8. Set the right view properties
    Business name: NWC_Planning
    Technical name: NWC_Planning
    Exposed for consumption: ON
 
-8. Deploy the view. This saves and deploys the view in your space. 
+9. Deploy the view. This saves and deploys the view in your space. 
