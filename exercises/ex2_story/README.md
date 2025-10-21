@@ -21,4 +21,5 @@ Filter: 2024, 2025, 2026 on TimeSeriesYearMonth
 Unbooked on for TimeSeriesYearMonth and Version dimensions
 ![](../../images/ex2_1.gif)
 
-6. 
+6. Right-click on the marked cell and freeze panes
+![](../../images/ex2_10.png)
