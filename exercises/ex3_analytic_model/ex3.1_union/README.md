@@ -11,4 +11,10 @@ In this exercise, we will first build a union to combine plan and actual data. T
 
 1. Go back to [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html), go to the data builder, select your space and create a new graphical view.
 
-2. 
+2. Pull the shared view *Net Working Capital Time Series Currency Role (HL)* to the canvas. Create a calculated column to assign a version to the actual data. We call it *public.Actual*. 
+
+3. Pull the view *Planning Model Facts* which holds the data of the seamless planning model we created previously on to the calculation node. You will then be prompted whether to create a union, a join or whether to replace. Choose the union.
+
+4. Map the date, company code, and version columns by dragging and dropping the source columns on to the target columns. The relations will be drawn accordingly.
+
+5. 
