@@ -1,4 +1,4 @@
-<img width="478" height="21" alt="image" src="https://github.com/user-attachments/assets/af9faba8-cb90-4c05-a543-894e6c74e96c" /># Create the seamless planning model in SAP Analytics Cloud
+# Create the seamless planning model in SAP Analytics Cloud
 In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use it to build a seamless planning model. 
 
 > [!NOTE]  
