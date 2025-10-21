@@ -76,7 +76,7 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 ![](../../../images/ex1.2_24.png)
 
 20. Format the measure. It shall be a currency measure fixed to USD and displayed in millions with two decimals. 
-![](../../../images/ex1.2_24.png)
+![](../../../images/ex1.2_29.png)
 
 21. Expose the fact table of the planning model in the data builder of SAP Datasphere. In the Details panel of the model, edit the exposure status. In the pop-up, provide a technical name and a business name under which the table will appear in SAP Datasphere.
 ![](../../../images/ex1.2_25.png)
