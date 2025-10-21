@@ -1,4 +1,4 @@
-# Create the seamless planning model in SAP Analytics Cloud
+<img width="478" height="21" alt="image" src="https://github.com/user-attachments/assets/af9faba8-cb90-4c05-a543-894e6c74e96c" /># Create the seamless planning model in SAP Analytics Cloud
 In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use it to build a seamless planning model. 
 
 > [!NOTE]  
@@ -78,11 +78,14 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 20. Format the measure. It shall be a currency measure fixed to USD and displayed in millions with two decimals. 
 ![](../../../images/ex1.2_29.png)
 
-21. Expose the fact table of the planning model in the data builder of SAP Datasphere. In the Details panel of the model, edit the exposure status. In the pop-up, provide a technical name and a business name under which the table will appear in SAP Datasphere.
+21. Extend the date range of the model to 2026.
+![](../../../images/ex1.2_30.png)
+
+22. Expose the fact table of the planning model in the data builder of SAP Datasphere. In the Details panel of the model, edit the exposure status. In the pop-up, provide a technical name and a business name under which the table will appear in SAP Datasphere.
 ![](../../../images/ex1.2_25.png)
 ![](../../../images/ex1.2_26.png)
 
-22. Save your model.
+23. Save your model.
 ![](../../../images/ex1.2_27.png)
 
 Done! Your planning model is created and we loaded master data for the company code dimension. Also, the fact table of the model is exposed in SAP Datasphere. Later on, we will bring the planning model data together with the actual data in SAP Datasphere and build an analytic model. But first, we need to create some plan data. Go ahead to [exercise 2 - Create a planning story](../../../exercises/ex2_story/README.md).
