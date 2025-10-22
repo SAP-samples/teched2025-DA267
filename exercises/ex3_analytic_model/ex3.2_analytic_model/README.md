@@ -25,6 +25,7 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 ![](../../../images/ex3.2_4)
 ![](../../../images/ex3.2_5)
 
-5. Enter the following SQL and preview your data. Then name your view and deploy it.
+5. This SQL view shall deliver today's date as a result. Enter the following SQL and preview your data. Then name your view and deploy it. 
 ![](../../../images/ex3.2_6)
 
+6. Go back to your analytic model. 
