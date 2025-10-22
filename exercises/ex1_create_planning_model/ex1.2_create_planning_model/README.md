@@ -22,17 +22,20 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 6. Now the planning model is created. Let's find out the live version is highlighted (no action needed). We see the live version in the data preview and it is listed under External Live Version Data Sources. We do not have to perform mappings now. We will learn how to do so later. 
 ![](../../../images/ex1.2_28.png)
 
-7. We now have to define semantics for our model columns and add master data wherever required. First, make the TimeSeriesYearMonth column the model's Date dimension.
+> [!NOTE]  
+> Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this exercise. So don't worry. 
+
+8. We now have to define semantics for our model columns and add master data wherever required. First, make the TimeSeriesYearMonth column the model's Date dimension.
 ![](../../../images/ex1.2_6.png)
 
-8. The system identified the right settings already. Confirm with OK.
+9. The system identified the right settings already. Confirm with OK.
 ![](../../../images/ex1.2_7.png)
 
-9. Save the model. Save it under My Files and give it a name. E.g., TECHED2025_DA267_USERxx.
+10. Save the model. Save it under My Files and give it a name. E.g., TECHED2025_DA267_USERxx.
 ![](../../../images/ex1.2_8.png)
 ![](../../../images/ex1.2_9.png)
 
-10. Create a (public) dimension table for Company Code. 
+11. Create a (public) dimension table for Company Code. 
 > [!CAUTION]
 > Give it a user-specific name and make it a public dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
 
