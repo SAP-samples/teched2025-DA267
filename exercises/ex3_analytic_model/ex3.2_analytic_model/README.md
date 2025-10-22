@@ -13,10 +13,18 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 ![](../../../images/ex3.2_2)
 
 3. We want to create a reference date variable to filter our time-dependent company code master data. The variable shall have a dynamic default value referring to today's date and should be adjustable for the reporting users. This is why we need to create a lookup entity in the next steps. 
-![](../../../images/ex3.2_2)
+![](../../../images/ex3.2_3)
 
 > [!TIP]
 > The Analytic Model offers three ways to fill variables:
 > - Manual input
 > - Derive Value: Derived variables are hidden in the data preview or in an SAP Analytics Cloud story. See Derived Variables.
 > - Dynamic Default: You get a derived value in the parameter dialog list when opening the analytic preview, and in the variable prompt for an SAP Analytics Cloud story. See Dynamic Default.
+
+4. Navigate to the data builder by clicking on the *back* arrow or the space name at the top left. Then create a new SQL view.
+![](../../../images/ex3.2_4)
+![](../../../images/ex3.2_5)
+
+5. Enter the following SQL and preview your data. Then name your view and deploy it.
+![](../../../images/ex3.2_6)
+
