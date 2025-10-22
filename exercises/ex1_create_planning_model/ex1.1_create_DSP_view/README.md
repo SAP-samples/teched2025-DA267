@@ -1,6 +1,9 @@
 # Create base view for planning model in SAP Datasphere
 In this exercise, you will build a view from which we will later create a planning model in SAP Analytics Cloud. In this planning model, we want to plan net working capital by company code. 
-<br>You will use a view which was shared from another space and which was derived from a data product in the context of working capital insights. 
+<br>You will use a view which was shared from another space and which was derived from a data product in the context of the working capital insights app. 
+
+> [!TIP]
+> Data products, intelligent apps... those are terms that were introduced in the context of SAP Business Data Cloud. If you want to learn more based on the working capital insights app example, I can recommend this [learning journey](https://learning.sap.com/courses/bt_bdc/bdc-intro). 
 
 1. Go to the databuilder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
