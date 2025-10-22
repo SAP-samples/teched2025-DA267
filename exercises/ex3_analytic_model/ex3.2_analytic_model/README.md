@@ -33,3 +33,7 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 7. Add a variable of type *Standard Variable*.
 ![](../../../images/ex3.2_7.png)
 ![](../../../images/ex3.2_8.png)
+
+8. Navigate to the data preview.
+![](../../../images/ex3.2_9.png)
+
