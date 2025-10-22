@@ -12,4 +12,26 @@ Now that we created the analytic model in [exercise 3.2](../ex3_analytic_model/e
 4. Drag the header composite to the canvas as you already did already in [exercise 2](../ex2_story/README.md). Add a table as well and then change the datasource of the table.
 ![](../../images/ex4_3.png)
 
-5. 
+5. Confirm the next dialogue and click *Select other model...*.
+![](../../images/ex4_4.png)
+![](../../images/ex4_5.png)
+
+6. Select the SAP Datasphere tenant *SAPSRC* on the left hand side. Then select your space. 
+![](../../images/ex4_6.png)
+
+7. Select your analytic model.
+![](../../images/ex4_7.png)
+
+8. Set the reference date variable value. You can change the variable value from the table afterwards and decide whether you want to apply a story-wide or table-specific setting. 
+![](../../images/ex4_8.png)
+![](../../images/ex4_9.png)
+![](../../images/ex4_10.png)
+
+10. Now, you can create a drill-down as shown in the video below.
+
+> [!NOTE]  
+> The point of this exercise is to show you how to add an analytic model to a story. The exact drill-down that you create is not important. If you have the feeling that remaining time is an issue, you can end this exercise at this point. If you feel you have plenty of time, you can also create some charts. 
+
+> [!NOTE]  
+> You may notice the version column is not recognized as a version by SAP Analytics Cloud. We plan to work on that in 2026 so aggregation across versions is forbidden and report styling rules can be applied.
+
