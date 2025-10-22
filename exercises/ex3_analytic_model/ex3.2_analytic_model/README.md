@@ -52,3 +52,5 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 
 10. Deploy the analytic model.
 ![](../../../images/ex3.2_12.png)
+
+The analytic model is created and lets us combine plan data with time dependent master data! On to [exercise 4](../../ex4_sac_story_reporting/README.md) where we will embedd this analytic model into our previously created story in SAP Analytics Cloud.
