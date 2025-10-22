@@ -7,13 +7,13 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 > - [Analytic Model Documentation in SAP Help Portal](https://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/e5fbe9e2cb93484dab8b1963145e565f.html)
 
 1. In the first step, we review the analytic model. As you see, measure, dimensions and associations are taken over from the union that was created earlier. The company code dimension is time-dependent as indicated by the clock icon.
-![](../../../images/ex3.2_1)
+![](../../../images/ex3.2_1.png)
 
 2. Provide a business name and a technical name and save the analytic model. Do not deploy it yet. We'll come back later.
-![](../../../images/ex3.2_2)
+![](../../../images/ex3.2_2.png)
 
 3. We want to create a reference date variable to filter our time-dependent company code master data. The variable shall have a dynamic default value referring to today's date and should be adjustable for the reporting users. This is why we need to create a lookup entity in the next steps. 
-![](../../../images/ex3.2_3)
+<br> ![](../../../images/ex3.2_3.png)
 
 > [!TIP]
 > The Analytic Model offers three ways to fill variables:
@@ -22,10 +22,14 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 > - Dynamic Default: You get a derived value in the parameter dialog list when opening the analytic preview, and in the variable prompt for an SAP Analytics Cloud story. See Dynamic Default.
 
 4. Navigate to the data builder by clicking on the *back* arrow or the space name at the top left. Then create a new SQL view.
-![](../../../images/ex3.2_4)
-![](../../../images/ex3.2_5)
+![](../../../images/ex3.2_4.png)
+![](../../../images/ex3.2_5.png)
 
 5. This SQL view shall deliver today's date as a result. Enter the following SQL and preview your data. Then name your view and deploy it. 
-![](../../../images/ex3.2_6)
+![](../../../images/ex3.2_6.png)
 
 6. Go back to your analytic model. 
+
+7. Add a variable of type *Standard Variable*.
+![](../../../images/ex3.2_7.png)
+![](../../../images/ex3.2_8.png)
