@@ -35,3 +35,6 @@ Now that we created the analytic model in [exercise 3.2](../ex3_analytic_model/e
 > [!NOTE]  
 > You may notice the version column is not recognized as a version by SAP Analytics Cloud. We plan to work on that in 2026 so aggregation across versions is forbidden and report styling rules can be applied.
 
+![](../../images/ex4_1.gif)
+
+We closed the loop! We created a planning model based on Actual data, planned data, built a joint plan vs. actual reporting using advanced modeling capabilities of SAP Datasphere and finally, we have built a reporting story on top. In the remaining exercises, we want to extend our planning model with HR and salary data. Move on to [exercise 5](../ex5_FTE_plan_data/ex5.1_enhance_model_structure/README.md) to get started. 
