@@ -19,29 +19,33 @@ In this exercise, we will first build a union to combine plan and actual data. T
 3. Pull the view *Planning Model Facts* which holds the data of the seamless planning model we created previously on to the calculation node. You will then be prompted whether to create a union or a join. Choose the union.
 ![](../../../images/ex3.1_4.png)
 
-4. Map the *Year Month* and *Company code* columns by dragging and dropping the source columns on to the target columns. The relations will be drawn accordingly.
-![](../../../images/ex3.1_5.png)
-![](../../../images/ex3.1_6.png)
+4. Create calculated column on the planning facts. It shall hold the fix currency information *USD*.
+![](../../../images/ex3.1_16.png)
+![](../../../images/ex3.1_17.png)
+![](../../../images/ex3.1_19.png)
+
+4. Map the *Currency*, *Version*, *Year Month* and *Company code* columns by dragging and dropping the source columns on to the target columns as shown in the example below. The relations will be drawn accordingly.
+![](../../../images/ex3.1_18.png)
 
 5. Change the semantic type of the *Year Month* column to *Calendar - Year Month*. To do so, click on the three dots and go to *Semantic Type* 
-![](../../../images/ex3.1_7.png)
+![](../../../images/ex3.1_7a.png)
 
 6. Add an association to the shared time dimension view *Time Dimension - Month*. Map the columns.
-![](../../../images/ex3.1_9.png)
+![](../../../images/ex3.1_9a.png)
 ![](../../../images/ex3.1_10.png)
-![](../../../images/ex3.1_11.png)
+![](../../../images/ex3.1_11a.png)
 
 7. Add another association to the shared dimension view *Company Code Master (View)* and map the columns.
 ![](../../../images/ex3.1_12.png)
-![](../../../images/ex3.1_13.png)
+![](../../../images/ex3.1_13a.png)
 
 8. Provide a business name and a technical name for your view.
-![](../../../images/ex3.1_8.png)
+![](../../../images/ex3.1_8a.png)
 
 9. Deploy. 
-![](../../../images/ex3.1_14.png)
+![](../../../images/ex3.1_14a.png)
 
 10. Wait until the view is deployed. Afterwards click *Create Analytic Model*.
-![](../../../images/ex3.1_15.png)
+![](../../../images/ex3.1_15a.png)
 
 This concludes exercise 3.1. Now we move on to create an analytic model for plan vs. actual reporting as described in [exercise 3.2 - Create analytic model](../ex3.2_analytic_model/README.md)
