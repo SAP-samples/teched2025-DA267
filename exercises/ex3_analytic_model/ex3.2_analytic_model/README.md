@@ -48,5 +48,7 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 ![](../../../images/ex3.2_10.png)
 ![](../../../images/ex3.2_11.png)
 
+![](../../../images/ex3.2_1.gif)
+
 10. Deploy the analytic model.
 ![](../../../images/ex3.2_12.png)
