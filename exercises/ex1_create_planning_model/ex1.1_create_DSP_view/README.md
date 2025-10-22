@@ -17,9 +17,9 @@ In this exercise, you will build a view from which we will later create a planni
 5. Filter on the year 2024 by adding a filter and entering the following expression: 
    <br>```TimeSeriesYearMonth >=202401 AND Currency ='USD'```
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_5.png)
-![](https://github.com/SAP-samples/teched2025-DA267/blob/e803fcdc4a9d15113f894eecc58f131666edd432/images/ex1.1_6a.png)
+![](https://github.com/SAP-samples/teched2025-DA267/blob/edec7c947b8206ae4cfca712a89288c00228e109/images/ex1.1_6a.png) 
 
-6. Add a projection and remove all columns except
+7. Add a projection and remove all columns except
    - YearMonth
    - Net Working Capital
    - Company Code
@@ -27,7 +27,7 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_7.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_8.png)
 
-7. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
+8. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
    Business name: NWC_Planning
    Technical name: NWC_Planning
    Exposed for consumption: ON
