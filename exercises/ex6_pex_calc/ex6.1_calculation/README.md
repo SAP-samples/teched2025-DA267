@@ -9,7 +9,7 @@ We will use a data action to calculate the salaries. But first, we need to plan 
 
 1. Navigate to the story you created earlier. You can either go via the *Files/My Files* or *Stories/Recent Files*.
 
-2. 
+2. Switch to edit mode and add a canvas page. Display the left and the right side panel.  
 
 
 
