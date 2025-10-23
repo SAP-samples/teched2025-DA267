@@ -38,4 +38,4 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_10.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_11.png) 
 
-<br> Continue to [exercise1.2](../ex1.2_create_planning_model/README.md) to create a planning model in SAP Analytics Cloud based on the created view. 
+<br> Continue to [exercise 1.2](../ex1.2_create_planning_model/README.md) to create a planning model in SAP Analytics Cloud based on the created view. 
