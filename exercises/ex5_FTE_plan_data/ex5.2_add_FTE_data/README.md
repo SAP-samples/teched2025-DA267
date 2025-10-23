@@ -28,5 +28,7 @@ We now want to add data from an HR planning model with FTE (full-time equivalent
 10. Select the newly created view.
 ![](../../../images/ex5.2_7.png)
 
-11. Map columns as follows:
+11. Map columns as follows and click *Ok*:
 ![](../../../images/ex5.2_8.png)
+
+12. Save your model.
