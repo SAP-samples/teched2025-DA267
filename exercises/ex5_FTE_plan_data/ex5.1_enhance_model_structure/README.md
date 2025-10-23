@@ -1,4 +1,4 @@
-<img width="261" height="17" alt="image" src="https://github.com/user-attachments/assets/8d949a2f-1fcf-499f-a7c4-a447ad23b4d8" /># Enhance the planning model structure for cost planning
+# Enhance the planning model structure for cost planning
 In this exercise, we will add measures and dimensions to make the planning model ready for cost planning. We focus on the planning of salaries and we will again leverage live versions - this time to reference HR plan data. 
 
 1. Go back to  [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home) and navigate to your planning model. You can either go via the *Files/My Files* or *Modeler/Recent Files*.
