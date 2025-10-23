@@ -56,5 +56,5 @@ In this exercise, we will add measures and dimensions to make the planning model
 
 10. Save the model. You will be prompted to specify a default account. Choose *Unassigned*.
 ![](../../../images/ex5.1_16.png)
-![](../../../images/ex5.1_16.png)
+![](../../../images/ex5.1_17.png)
 
