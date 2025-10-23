@@ -2,7 +2,7 @@
 In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use it to build a seamless planning model. 
 
 > [!NOTE]  
-> We will use the new live version feature that is delivered in QRC4 2025. Find more information [here](https://community.sap.com/t5/technology-blog-posts-by-sap/unlocking-the-next-chapter-of-seamless-planning-in-sap-business-data-cloud/ba-p/14243864)
+> We will use the new live version feature that is delivered in QRC4 2025. Find more information [here](https://community.sap.com/t5/technology-blog-posts-by-sap/unlocking-the-next-chapter-of-seamless-planning-in-sap-business-data-cloud/ba-p/14243864).
 
 1. Go to the modeler in [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_1.png)
