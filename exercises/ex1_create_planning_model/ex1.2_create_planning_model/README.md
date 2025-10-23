@@ -54,7 +54,7 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 
 
 > [!NOTE]  
-> We need to load master data via OData - even with seamless planning. In the future, we want to provide replication-free access to master data as well. 
+> We need to load master data via OData - even with seamless planning. In the future, we want to provide replication-free access to master data as well as a push from SAP Datasphere into the SAP Analytics Cloud model and dimension tables. 
 
 
 14. Navigate to Data Management via the drop-down in the top left coner. Then import data from datasource.
