@@ -16,6 +16,9 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_2.png)
 ![](../../../images/ex5.1_3.png)
 
+> [!NOTE]  
+> From now on, you will see a validation error in your model as we'll need to adjust the mapping for the existing live version. We'll take care later after some more structural changes. 
+
 3. Create another measure:
 - Name: AMOUNT
 - Unit Type: Currency
