@@ -37,7 +37,7 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 
 11. Create a (public) dimension table for Company Code. 
 > [!CAUTION]
-> Give it a user-specific name and make it a public dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
+> Give it a user-specific name and make it a **public** dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
 
 ![](../../../images/ex1.2_10.png)
 ![](../../../images/ex1.2_11.png)
