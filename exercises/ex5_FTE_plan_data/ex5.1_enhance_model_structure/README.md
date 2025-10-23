@@ -1,4 +1,4 @@
-# Enhance the planning model structure for cost planning
+<img width="261" height="17" alt="image" src="https://github.com/user-attachments/assets/8d949a2f-1fcf-499f-a7c4-a447ad23b4d8" /># Enhance the planning model structure for cost planning
 In this exercise, we will add measures and dimensions to make the planning model ready for cost planning. We focus on the planning of salaries and we will again leverage live versions - this time to reference HR plan data. 
 
 1. Go back to  [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home) and navigate to your planning model. You can either go via the *Files/My Files* or *Modeler/Recent Files*.
@@ -45,16 +45,18 @@ In this exercise, we will add measures and dimensions to make the planning model
   
 7. Open [](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table.
 ![](../../../images/ex5.1_11.png)
+![](../../../images/ex5.1_18.png)
 
-8. Go back to the model structure and resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version.
+
+9. Go back to the model structure and resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version.
 ![](../../../images/ex5.1_12.png)
 ![](../../../images/ex5.1_13.png)
 
-9. The existing live version for Net Working Capital does not contain columns for the new FTE or AMOUNT measures of the model. We can set them to a default value via the marked buttons and leave *NULL* as default value. We do not have an account either, so we map it to the default value *Unassigned*.
+10. The existing live version for Net Working Capital does not contain columns for the new FTE or AMOUNT measures of the model. We can set them to a default value via the marked buttons and leave *NULL* as default value. We do not have an account either, so we map it to the default value *Unassigned*.
 ![](../../../images/ex5.1_14.png)
 ![](../../../images/ex5.1_15.png)
 
-10. Save the model. You will be prompted to specify a default account. Choose *Unassigned*.
+11. Save the model. You will be prompted to specify a default account. Choose *Unassigned*.
 ![](../../../images/ex5.1_16.png)
 ![](../../../images/ex5.1_17.png)
 
