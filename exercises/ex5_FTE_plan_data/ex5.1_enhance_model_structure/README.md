@@ -17,7 +17,7 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_3.png)
 
 > [!NOTE]  
-> From now on, you will see a validation error in your model as we'll need to adjust the mapping for the existing live version. We'll take care later after some more structural changes. 
+> From now on, you will see a validation error in your model as we'll need to adjust the mapping for the existing live version. Don't worry, we'll take care. 
 
 3. Create another measure:
 - Name: AMOUNT
@@ -28,3 +28,13 @@ In this exercise, we will add measures and dimensions to make the planning model
 
 ![](../../../images/ex5.1_4.png)
 ![](../../../images/ex5.1_5.png)
+
+4. Create a generic dimension for accounts. It does not have to be public. 
+> [!NOTE]  
+> It is not possible to add a dimension of type *Account* to a plannig model which already is in use. Since we anyways do not want to use account dimension specific functionality as formulas or account types, we can use a generic dimension. There is no limitation to use account dimensions in seamless planning. 
+
+
+
+. Resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version. The existing live version for Net Working Capital does not contain columns for the new FTE or AMOUNT measures of the model. We can set them to a default value via the marked buttons and leave *NULL* as default value. We do not have an account either, so we map it to the default value *Unassigned*. 
+
+
