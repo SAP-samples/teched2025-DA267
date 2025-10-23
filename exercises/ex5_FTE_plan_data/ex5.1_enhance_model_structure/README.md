@@ -58,4 +58,4 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_16.png)
 ![](../../../images/ex5.1_17.png)
 
-Go on to [exercise 5.2](../ex5.2_add_FTE_data). We are ready to add FTE plan data to the model. 
+Go on to [exercise 5.2](../ex5.2_add_FTE_data/README.md). We are ready to add FTE plan data to the model. 
