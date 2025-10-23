@@ -3,7 +3,7 @@ Now that we created the analytic model in [exercise 3.2](../ex3_analytic_model/e
 
 1. Go back to  [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home) and navigate to the story you created earlier. You can either go via the *Files/My Files* or *Stories/Recent Files*.
 
-2.Add a canvas page.
+2. Add a canvas page.
 ![](../../images/ex4_1.png)
 
 3. Display the left and the right side panel.
