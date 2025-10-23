@@ -16,9 +16,9 @@ In this exercise, you will build a story on the of the model that you created in
 
 5. Configure the planning table as follows. Basic story building skills are assumed. Hence, no click-by-click guide is provided. Instead, refer to the gif. 
 Rows: add company code
-<br> Columns: add TimeSeriesYearMonth dimension
-<br> Filter: 2024, 2025, 2026 on TimeSeriesYearMonth
-<br> Unbooked on for TimeSeriesYearMonth and Version dimensions
+<br> - Columns: add TimeSeriesYearMonth dimension
+<br> - Filter: 2024, 2025, 2026 on TimeSeriesYearMonth
+<br> - Unbooked on for TimeSeriesYearMonth and Version dimensions
 ![](../../images/ex2_1.gif)
 
 6. Right-click on the marked cell and freeze panes.
