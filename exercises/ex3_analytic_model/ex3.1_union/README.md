@@ -48,4 +48,4 @@ In this exercise, we will first build a union to combine plan and actual data. T
 10. Wait until the view is deployed. Afterwards click *Create Analytic Model*.
 ![](../../../images/ex3.1_15a.png)
 
-This concludes exercise 3.1. Now we move on to create an analytic model for plan vs. actual reporting as described in [exercise 3.2 - Create analytic model](../ex3.2_analytic_model/README.md)
+This concludes exercise 3.1. Now we move on to create an analytic model for plan vs. actual reporting as described in [exercise 3.2 - Create analytic model](../ex3.2_analytic_model/README.md).
