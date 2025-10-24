@@ -40,4 +40,4 @@ Rows: add company code
 > [!CAUTION]  
 > Do not forget to publish!
 
-Now we have added plan data to our model. We will no go ahead to [exercise 3 - create analytic model in SAP Datasphere](../ex3_analytic_model/ex3.1_union/README.md)
+Now we have added plan data to our model. We will no go ahead to [exercise 3 - create analytic model in SAP Datasphere](../ex3_analytic_model/ex3.1_union/README.md).
