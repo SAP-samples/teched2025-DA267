@@ -43,10 +43,9 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_9.png)
 ![](../../../images/ex5.1_10.png) 
   
-7. Open [](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table.
+7. Open [](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table. Add *<root>* as parent for *Unassigned*.
 ![](../../../images/ex5.1_11.png)
 ![](../../../images/ex5.1_18.png)
-
 
 9. Go back to the model structure and resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version.
 ![](../../../images/ex5.1_12.png)
