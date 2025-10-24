@@ -20,7 +20,7 @@ In this exercise, you will build a view from which we will later create a planni
 5. Filter on the year 2024 by adding a filter and entering the following expression: 
    <br>```TimeSeriesYearMonth >=202401 AND Currency ='USD'```
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_5.png)
-![](https://github.com/SAP-samples/teched2025-DA267/blob/edec7c947b8206ae4cfca712a89288c00228e109/images/ex1.1_6a.png) 
+![](https://github.com/SAP-samples/teched2025-DA267/blob/bad4b6e82c114b0bdfd23b8bbed3d2b80e9f7f5e/images/ex1.1_6a.png) 
 
 7. Add a projection and remove all columns except
    - YearMonth
