@@ -16,6 +16,9 @@ We will use a data action to calculate the salaries. It shall first populate the
 3. Name your data action and select your planning model as default model. Then, add an advanced formulas step. 
 ![](../../../images/ex6.1_3.png)
 
+> [!NOTE]  
+> Optionally, name your steps. This is especially useful when data actions have many steps. 
+
 4. We can easily use the visual formula editor for the first step which is to fill the salary assumption account. First, set filters as below. Then add a parameter. 
 ![](../../../images/ex6.1_4.png)
 
@@ -39,7 +42,7 @@ We will use a data action to calculate the salaries. It shall first populate the
 ![](../../../images/ex6.1_11.png)
 
 11. Enter the following script:
-'''
+```
 //-----------------------------------------------------------------------------------
 //The data region against which the formulas will be executed.
 //-----------------------------------------------------------------------------------
@@ -50,7 +53,8 @@ MEMBERSET [d/Account] = ("#")
 //Calculation and Data Writing
 //-----------------------------------------------------------------------------------
 DATA([d/Measures] = "AMOUNT", [d/Account] = "PERS") = RESULTLOOKUP([d/Measures] = "FTE", [d/Version] = "public.FTE Plan", [d/Account] = "#") * RESULTLOOKUP([d/Measures] = "AMOUNT", [d/Account] = "ASSUM", [d/Version] = "public.Plan2026")
+```
 ![](../../../images/ex6.1_12.png)
-'''
+
 
 12. Validate the script. Then save. 
