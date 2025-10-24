@@ -43,19 +43,19 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_9.png)
 ![](../../../images/ex5.1_10.png) 
   
-7. Open [](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table. Add *<root>* as parent for *Unassigned*.
+7. Open [](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table. Add *`<root>`*  as parent for *Unassigned*.
 ![](../../../images/ex5.1_11.png)
 ![](../../../images/ex5.1_18.png)
 
-9. Go back to the model structure and resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version.
+8. Go back to the model structure and resolve mapping issues. You can either jump into the error from the validation message or open the column mapping of the live version.
 ![](../../../images/ex5.1_12.png)
 ![](../../../images/ex5.1_13.png)
 
-10. The existing live version for Net Working Capital does not contain columns for the new FTE or AMOUNT measures of the model. We can set them to a default value via the marked buttons and leave *NULL* as default value. We do not have an account either, so we map it to the default value *Unassigned*.
+9. The existing live version for Net Working Capital does not contain columns for the new FTE or AMOUNT measures of the model. We can set them to a default value via the marked buttons and leave *NULL* as default value. We do not have an account either, so we map it to the default value *Unassigned*.
 ![](../../../images/ex5.1_14.png)
 ![](../../../images/ex5.1_15.png)
 
-11. Save the model. You will be prompted to specify a default account. Choose *Unassigned*.
+10. Save the model. You will be prompted to specify a default account. Choose *Unassigned*.
 ![](../../../images/ex5.1_16.png)
 ![](../../../images/ex5.1_17.png)
 
