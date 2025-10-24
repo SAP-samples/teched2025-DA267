@@ -37,7 +37,7 @@ Rows: add company code
 > [!NOTE]  
 > Live version data is never editable. But you can refer it via copy/paste, in version management, data actions (incl. advanced formulas), story & model calculations.
 
-> [!IMPORTANT]  
+> [!CAUTION]  
 > Do not forget to publish!
 
 Now we have added plan data to our model. We will no go ahead to [exercise 3 - create analytic model in SAP Datasphere](../ex3_analytic_model/ex3.1_union/README.md)
