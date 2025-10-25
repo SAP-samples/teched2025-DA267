@@ -12,7 +12,7 @@ In this session, we will:
 - Leverage a view shared from the content of the Working Capital Insights app to create a planning model with a live connection to the view's data
 - Load master data from SAP Datasphere
 - Expose the planning model data in SAP Datasphere and build a plan vs. actual reporting using an analytic model and time-dependent master data
-- Extend the planning model with generic financial cost planning dimensions and measures
+- Extend the planning model with generic financial p&l planning dimensions and measures
 - Integrate data from an HR planning model (shared with you) to derive personnel expenses
 
 Along the way, we will create a story in SAP Analytics Cloud to plan and report. 
