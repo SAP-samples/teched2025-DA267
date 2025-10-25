@@ -5,7 +5,7 @@ In this exercise, you will build a view from which we will later create a planni
 > [!TIP]
 > Data products, intelligent apps... those are terms that were introduced in the context of SAP Business Data Cloud. If you want to learn more based on the working capital insights app example, I can recommend this [learning journey](https://learning.sap.com/courses/bt_bdc/bdc-intro). 
 
-1. Go to the databuilder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
+1. Go to the data builder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
 
 2. Choose your space
@@ -22,7 +22,7 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_5.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/bad4b6e82c114b0bdfd23b8bbed3d2b80e9f7f5e/images/ex1.1_6a.png) 
 
-7. Add a projection and remove all columns except
+6. Add a projection and remove all columns except
    - YearMonth
    - Net Working Capital
    - Company Code
@@ -30,7 +30,7 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_7.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_8.png)
 
-8. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
+7. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
    Business name: NWC_Planning
    Technical name: NWC_Planning
    Exposed for consumption: ON
