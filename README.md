@@ -36,6 +36,15 @@ The requirements to follow the exercises in this repository are:
 
 Get started [here](exercises/ex0_setup/README.md)
 
+## Learn more
+- [Seamless Planning release announcement]()
+- [Seamless Planning Product FAQ]()
+- [Seamless Planning live versions]()
+- [SAP help on seamless planning]()
+- [Learning journey on SAP BDC](https://learning.sap.com/courses/bt_bdc/bdc-intro)
+- [SAP help on SAP Datasphere data builder](http://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/5c1e3d4a49554fcd8fcf199d664d1109.html)
+- [Introducing the Analytic Model in SAP Datasphere](https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-the-analytic-model-in-sap-datasphere/ba-p/13568591)
+- [SAP help on the analytic model in SAP Datasphere](https://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/e5fbe9e2cb93484dab8b1963145e565f.html)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
