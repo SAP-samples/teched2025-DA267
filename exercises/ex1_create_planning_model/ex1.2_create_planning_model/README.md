@@ -26,17 +26,17 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 > [!NOTE]  
 > Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this exercise. So don't worry. 
 
-8. We now have to define semantics for our model columns and add master data wherever required. First, make the TimeSeriesYearMonth column the model's Date dimension.
+7. We now have to define semantics for our model columns and add master data wherever required. First, make the TimeSeriesYearMonth column the model's Date dimension.
 ![](../../../images/ex1.2_6.png)
 
-9. The system identified the right settings already. Confirm with OK.
+8. The system identified the right settings already. Confirm with OK.
 ![](../../../images/ex1.2_7.png)
 
-10. Save the model. Save it under My Files and give it a name. E.g., TECHED2025_DA267_USERxx.
+9. Save the model. Save it under My Files and give it a name. E.g., TECHED2025_DA267_USERxx.
 ![](../../../images/ex1.2_8.png)
 ![](../../../images/ex1.2_9.png)
 
-11. Create a (public) dimension table for Company Code. 
+10. Create a (public) dimension table for Company Code. 
 > [!CAUTION]
 > Give it a user-specific name and make it a **public** dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
 
