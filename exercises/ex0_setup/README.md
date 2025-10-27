@@ -4,7 +4,8 @@
 - [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 - [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 
-## SAP Datasphere - Space set-up
+## SAP Datasphere 
+### Space set-up
 A space is available and assigned for each participant couple. The space name is DA267_USERxx (fill xx with your user number that you find on your PC; e.g., DA267_USER01). 
 
 ## SAP Analytics Cloud
