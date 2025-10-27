@@ -21,3 +21,16 @@ Columns:
 
 5. Pull a data actions starter to the canvas.
 ![](../../../images/ex6.2_3.png)
+
+6. Set up the data action starter with a name and the data action you just created. The target version can be fixed to Plan2026. The salary assumption shall be prompted so that users can adjust it.
+![](../../../images/ex6.2_4.png)
+
+7. Run the data action.
+![](../../../images/ex6.2_5.png)
+![](../../../images/ex6.2_6.png)
+
+> [!NOTE]  
+> Remeber that the transactional data can differ from the screenshots.
+
+
+Done! You completed the entire exercise. Congratulations!
