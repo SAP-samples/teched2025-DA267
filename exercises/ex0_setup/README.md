@@ -19,8 +19,11 @@ Choose your favorite theme like this.
 
 1. Navigate to your user. Go to *Settings*
 ![](../../images/ex0_1.png)
-2. Select your theme and close
+2. Select your theme and close. 
 ![](../../images/ex0_2.png)
+
+> [!NOTE]  
+> The selection of the SAP Analytics Cloud theme makes no difference from a functional perspective. Since all screenshots were taken in *SAP Belize*, it may be slightly easier to navigate based on the screenshots when using the same theme. Horizon themes offer a more modern UI as well as high-contrast options. 
 
 Now, move on to the first real exercise. [Exercise 1 - Create planning model](../ex1_create_planning_model/ex1.1_create_DSP_view/README.md)
 
