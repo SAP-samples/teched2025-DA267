@@ -34,7 +34,7 @@ We will use a data action to calculate the salaries. It shall first populate the
 8. The expression shall be an input field.
 ![](../../../images/ex6.1_8.png)
 
-9. Select the previously selected parameter. Then, add another advanced formula step. 
+9. Select the previously selected parameter instead of a manual input via the drop-down. Then, add another advanced formula step. 
 ![](../../../images/ex6.1_9.png)
 ![](../../../images/ex6.1_10.png)
 
