@@ -6,7 +6,7 @@
 
 ## SAP Datasphere 
 ### Space set-up
-A space is available and assigned for each participant couple. The space name is DA267_USERxx (fill xx with your user number that you find on your PC; e.g., DA267_USER01). 
+A space is available and assigned for each participant couple. The space name is TAC007647Uxx (fill xx with your user number that you find on your PC; e.g., TAC007647U01). 
 
 ## SAP Analytics Cloud
 ### File repository
