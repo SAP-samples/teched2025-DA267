@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2025 session called DA2
 
 ## Overview
 
-This session introduces attendees to the seamless planning integration of SAP Analytics Cloud and SAP Datasphere in the context of SAP Business Data Cloud. 
+This session introduces attendees to the seamless planning integration of SAP Analytics Cloud and SAP Datasphere in the context of SAP Business Data Cloud. Find the introduction slides shown on-site here: [PPT](images/DA267_Flow.pptx)
 
 In this session, we will:
 - Leverage a view shared from the content of the Working Capital Insights app to create a planning model with a live connection to the view's data
