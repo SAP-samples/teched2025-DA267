@@ -11,6 +11,9 @@ In this exercise, you will build a view from which we will later create a planni
 2. Choose your space
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_2.png)
 
+> [!NOTE]
+> You'll see more views and tables shared with your space than in the screenshots. 
+
 3. Create graphical view
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_3.png)
 
