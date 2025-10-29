@@ -4,6 +4,10 @@
 - [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 - [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 
+## Log-in
+User/mail: Your email address to log on is tac007647u**xx**@sapexperienceacademy.com. Fill xx with your user number that you find on your PC; e.g., TAC007647U01.
+Password: ObyGnrAfdz1!
+
 ## SAP Datasphere 
 ### Space set-up
 A space is available and assigned for each participant couple. The space name is TAC007647Uxx (fill xx with your user number that you find on your PC; e.g., TAC007647U01). 
