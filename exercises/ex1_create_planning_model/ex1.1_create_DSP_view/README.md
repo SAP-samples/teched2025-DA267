@@ -5,7 +5,7 @@ In this exercise, you will build a view from which we will later create a planni
 > [!TIP]
 > Data products, intelligent apps... those are terms that were introduced in the context of SAP Business Data Cloud. If you want to learn more based on the working capital insights app example, I can recommend this [learning journey](https://learning.sap.com/courses/bt_bdc/bdc-intro). 
 
-1. Go to the data builder in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
+1. Go to the *Data Builder* in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
 
 2. Choose your space. 
@@ -14,10 +14,10 @@ In this exercise, you will build a view from which we will later create a planni
 > [!NOTE]
 > You'll see more views and tables shared with your space than in the screenshots. 
 
-3. Create graphical view
+3. Create *graphical view*
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_3.png)
 
-4. Pull the shared view "Net Working Capital Time Series Currency Role (HL)" on to the canvas
+4. Pull the shared view `Net Working Capital Time Series Currency Role (HL)` on to the canvas
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_4.png)
 
 5. Filter on the year 2024 by adding a filter and entering the following expression: 
@@ -35,9 +35,9 @@ The easiest way to achieve this is to first select all columns, exclude all colu
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_8.png)
 
 7. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
-   - Business name: NWC_Planning
-   - Technical name: NWC_Planning
-   - Exposed for consumption: ON
+   - Business name: `NWC_Planning`
+   - Technical name: `NWC_Planning`
+   - Exposed for consumption: `ON`
 
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_9.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_10.png)
