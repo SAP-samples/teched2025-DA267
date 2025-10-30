@@ -32,3 +32,5 @@ We now want to add data from an HR planning model with FTE (full-time equivalent
 ![](../../../images/ex5.2_8.png)
 
 12. Save your model.
+
+You can now go ahead and calculate personnel expenses in [exercise 6](../../ex6_pex_calc/ex6.1_data_action)
