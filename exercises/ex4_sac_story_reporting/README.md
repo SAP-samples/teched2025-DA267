@@ -16,7 +16,7 @@ Now that we created the analytic model in [exercise 3.2](../ex3_analytic_model/e
 ![](../../images/ex4_4.png)
 ![](../../images/ex4_5.png)
 
-6. Select the SAP Datasphere tenant *SAPSRC* on the left hand side. Then select your space. 
+6. Select the SAP Datasphere tenant `SAPSRC` on the left hand side. Then select your space. 
 ![](../../images/ex4_6.png)
 
 7. Select your analytic model.
