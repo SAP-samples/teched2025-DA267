@@ -11,7 +11,7 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 2. Create new model
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_2.png)
 
-3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning.
+3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name *TAC007647Uxx*. Use this space. 
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_3.png)
 
 4. Now you select the datasource for your model. We select SAP Datasphere. By that, we will directly create a live connection to our source view via a live version.
