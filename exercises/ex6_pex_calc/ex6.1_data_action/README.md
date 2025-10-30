@@ -2,7 +2,7 @@
 Now, we want to calculate personnel expenses. We pretend that this is only base salary. Let's first understand how we want to calculate them.
 We will use the following measures/accounts:
 - FTE measure (`FTE`) --> number of employees in full-time equivalents
-- Salary Assumptions account (ÀSSUM`) --> to hold the assumed average salary per 1 FTE
+- Salary Assumptions account (`ASSUM`) --> to hold the assumed average salary per 1 FTE
 - Personnel Expenses account (`PERS`) --> to hold the calculated salary value (FTE * Salary Assumptions)
 
 We will use a data action to calculate the salaries. It shall first populate the average salaries based on a user parameter and then multiply the FTE by the maintained assumption.
