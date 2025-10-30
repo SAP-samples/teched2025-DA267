@@ -6,7 +6,7 @@
 
 ## Log-in
 - User/mail: ac239494u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your PC; e.g., `ac239494u01@sapexperienceacademy.com`
-- Password: `ObyGnrAfdz1!`
+- Password: `ObtOv3PGiV1!`
 
 ## SAP Datasphere 
 ### Space set-up
