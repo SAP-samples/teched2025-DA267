@@ -8,11 +8,11 @@ In this exercise, you will build a view from which we will later create a planni
 1. Go to the *Data Builder* in [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
 
-2. Choose your space. 
+2. Choose your space
 ![](../../../images/ex0_3.png)
 
 > [!NOTE]
-> You'll see more views and tables shared with your space than in the screenshots. 
+> You'll see more views and tables shared with your space than in the screenshots
 
 3. Create a graphical view.
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_3.png)
