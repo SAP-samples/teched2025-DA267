@@ -1,5 +1,5 @@
 # Create the seamless planning model in SAP Analytics Cloud
-In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use it to build a seamless planning model. 
+In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and use it to build a seamless planning model. 
 
 > [!TIP]  
 > We will use the new live version feature that is delivered in QRC4 2025. Find more information [here](https://community.sap.com/t5/technology-blog-posts-by-sap/unlocking-the-next-chapter-of-seamless-planning-in-sap-business-data-cloud/ba-p/14243864).
@@ -11,16 +11,16 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 2. Create new model
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_2.png)
 
-3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name *TAC007647Uxx*. Use this space. 
+3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name `AC239494Uxx`. Use this space. 
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_3.png)
 
-4. Now you select the datasource for your model. We select SAP Datasphere. By that, we will directly create a live connection to our source view via a live version.
+4. Now you select the datasource for your model. We select *SAP Datasphere*. By that, we will directly create a live connection to our source view via a live version.
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_4.png)
 
 5. Select the view that you created in [exercise 1.1](../../../exercises/ex1_create_planning_model/ex1.1_create_DSP_view/README.md)
 ![](../../../images/ex1.2_5.png)
 
-6. Now the planning model is created. Let's find out the live version is highlighted (no action needed). We see the live version in the data preview and it is listed under External Live Version Data Sources. We do not have to perform mappings now. We will learn how to do so later. 
+6. Now the planning model is created. Let's find out the live version is highlighted (no action needed). We see the live version in the data preview and it is listed under *External Live Version Data Sources*. We do not have to perform mappings now. We will learn how to do so later. 
 ![](../../../images/ex1.2_28.png)
 
 > [!NOTE]  
@@ -29,17 +29,18 @@ In this exercise, we will use the NWC_PLANNING view from SAP Datasphere and use 
 > [!NOTE]  
 > Small UI changes were introduced with QRC4.2025. The data preview and model details are now displayed differently in the toolbar as you can see in the screenshot above. 
 
-7. We now have to define semantics for our model columns and add master data wherever required. First, make the TimeSeriesYearMonth column the model's Date dimension.
+7. We now have to define semantics for our model columns and add master data wherever required. First, make the `TimeSeriesYearMonth` column the model's date dimension.
 ![](../../../images/ex1.2_6.png)
 
-8. The system identified the right settings already. Confirm with OK.
+8. The system identified the right settings already. Confirm with *OK*.
 ![](../../../images/ex1.2_7.png)
 
-9. Save the model. Save it under My Files and give it a name. E.g., TECHED2025_DA267_USERxx.
+9. Save the model. Save it under My Files and give it a name. E.g., `TECHED2025_DA267_USERxx` where *xx* is the last two characters of your user ID. 
 ![](../../../images/ex1.2_8.png)
 ![](../../../images/ex1.2_9.png)
 
 10. Create a (public) dimension table for Company Code. 
+
 > [!CAUTION]
 > Give it a user-specific name and make it a **public** dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
 
