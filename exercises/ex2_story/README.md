@@ -34,7 +34,7 @@ Filter:
 7. Now create a blank planning version. Mark the table and go to *Version Management*.
 ![](../../images/ex2_7.png)
 
-8. Create a blank version and give it a name and a category.
+8. Create a blank version and give it a name (`Plan2026`) and a category.
 ![](../../images/ex2_8.png)
 ![](../../images/ex2_9.png)
 
