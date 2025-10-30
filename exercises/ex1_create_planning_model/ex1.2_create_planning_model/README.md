@@ -61,25 +61,24 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 > [!NOTE]  
 > We need to load master data via OData - even with seamless planning. In the future, we want to provide replication-free access to master data as well as a push from SAP Datasphere into the SAP Analytics Cloud model and dimension tables. 
 
-
 14. Navigate to Data Management via the drop-down in the top left coner. Then import data from datasource.
 ![](../../../images/ex1.2_16.png)
 
-15. Select OData Services. Afterwards, use the connection TECHED2025_DA267 which only offers the view V_Company_Code_Master. Select this view and click next
+15. Select OData Services. Afterwards, use the connection `TECHED2025_DA267` which only offers the view `V_Company_Code_Master`. Select this view and click next
 ![](../../../images/ex1.2_17.png)
 ![](../../../images/ex1.2_18.png)
 ![](../../../images/ex1.2_19.png)
 
-16. Drag and drop ID, Parent, and Text to the Selected Data section. The master data in SAP Datasphere is time-dependent. Since SAP Analytics Cloud does not support this, we set a filter on a key date. Pull Valid_From on to the Filters section. Since we want to plan for the year 2026, select Equal to 202601 (you can use the value help).
+16. Drag and drop `ID`, `Parent`, and `Text` to the *Selected Data* section. The master data in SAP Datasphere is time-dependent. Since SAP Analytics Cloud does not support this, we set a filter on a key date. Pull `Valid_From` on to the *Filters* section. Since we want to plan for the year 2026, select `Equal to 202601` (you can use the value help).
 ![](../../../images/ex1.2_20.png)
 
-17. Select the ID as primary key. This is a new feature delivered with QRC4.2025 to avoid data inconsistencies due to unlear value sorting. 
+17. Select `ID` as primary key. This is a new feature delivered with QRC4.2025 to avoid data inconsistencies due to unlear value sorting. 
 ![](../../../images/ex1.2_21.png)
 
-18. Map the columns. You should only have to fill select the Text source column for the Description column. Then finish mapping and confirm the next dialogue.
+18. Map the columns. You should only have to fill select the `Text` source column for the `Description` column. Then *Finish Mapping* and confirm the next dialogue.
 ![](../../../images/ex1.2_22.png)
 
-19. Wait a second until the data is refreshed. Then navigate back to our planning model. We do so by clicking on Modeler and selecting our model from the recent files list.
+19. Wait a second until the data is refreshed. Then navigate back to our planning model. We do so by clicking on *Modeler* and selecting our model from the recent files list.
 ![](../../../images/ex1.2_23.png)
 ![](../../../images/ex1.2_24.png)
 
@@ -89,7 +88,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 21. Extend the date range of the model to 2026.
 ![](../../../images/ex1.2_30.png)
 
-22. Expose the fact table of the planning model in the data builder of SAP Datasphere. In the Details panel of the model, edit the exposure status. In the pop-up, provide a technical name and a business name under which the table will appear in SAP Datasphere.
+22. Expose the fact table of the planning model in the data builder of SAP Datasphere. In the *Details* panel of the model, edit the exposure status. In the pop-up, provide a technical name and a business name under which the table will appear in SAP Datasphere.
 ![](../../../images/ex1.2_25.png)
 ![](../../../images/ex1.2_26.png)
 
