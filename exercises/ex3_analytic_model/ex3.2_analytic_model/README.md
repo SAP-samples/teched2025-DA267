@@ -26,6 +26,11 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 ![](../../../images/ex3.2_5.png)
 
 5. This SQL view shall deliver today's date as a result. Enter the following SQL and preview your data. Then name your view and deploy it. 
+```SQL
+SELECT
+CURRENT_DATE AS "Today"
+FROM "TECHED2025_DA267_S4.SAP.TIME.VIEW_DIMENSION_DAY"
+```
 ![](../../../images/ex3.2_6.png)
 
 6. Go back to your analytic model. 
@@ -43,7 +48,7 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 > We did not create a projection in our underyling union view to exclude columns. Hence, a lot of detail is offered for actuals which is not available for plan data as we only planned one measure by company codes. Also, we consciously did not implement currency conversion. More master data could be associated to our union view. We consciously did not add it to our space given the time constraints of our exercise.
 
 > [!NOTE]
-> Pay special attention to the usage of time dependent master data. Depending on the reference date, the right hierarchy is displayed. In 2026, the region *Europe* was split into *EMEA* and *MEE*. The user is prompted for the reference data when opening the preview (first screenshot). You can change the reference date as indicated in the second screenshot.
+> Pay special attention to the usage of time-dependent master data. Depending on the reference date, the right hierarchy is displayed. In 2026, the region *Europe* was split into *EMEA* and *MEE*. The user is prompted for the reference date when opening the preview (first screenshot). You can change the reference date as indicated in the second screenshot.
 
 ![](../../../images/ex3.2_10.png)
 ![](../../../images/ex3.2_11.png)
@@ -53,4 +58,4 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 10. Deploy the analytic model.
 ![](../../../images/ex3.2_12.png)
 
-The analytic model is created and lets us combine plan data with time dependent master data! On to [exercise 4](../../ex4_sac_story_reporting/README.md) where we will embedd this analytic model into our previously created story in SAP Analytics Cloud.
+The analytic model is created and lets us combine plan data with time-dependent master data! On to [exercise 4](../../ex4_sac_story_reporting/README.md) where we will embedd this analytic model into our previously created story in SAP Analytics Cloud.
