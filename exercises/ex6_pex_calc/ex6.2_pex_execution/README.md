@@ -10,13 +10,15 @@ In this exercise, we will build a table to check the values that our data action
 ![](../../../images/ex6.2_2.png)
 
 4. Build your table as per the video.
+
 Rows:
-- Company Code
-- Accounts: 
+- `Company Code`
+- `Account`
+
 Columns:
-- Measures: FTE, AMOUNT
-- Versions: FTE_PLAN, Plan2026
-- Date: 2026 
+- Measures: `FTE`, `AMOUNT`
+- Versions: `FTE_PLAN`, `Plan2026`
+- Date: `2026` 
 ![](../../../images/ex6.2_1.gif)
 
 5. Pull a data actions starter to the canvas.
