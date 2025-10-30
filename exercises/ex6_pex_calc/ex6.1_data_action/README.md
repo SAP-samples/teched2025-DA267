@@ -57,4 +57,6 @@ DATA([d/Measures] = "AMOUNT", [d/Account] = "PERS") = RESULTLOOKUP([d/Measures] 
 ![](../../../images/ex6.1_12.png)
 
 
-12. Validate the script. Then save. 
+12. Validate the script. Then save.
+
+In [exercise 6.2](../ex6.2_pex_execution), we will run this data action in a story and review the results.
