@@ -29,14 +29,16 @@ In this exercise, you will build a view from which we will later create a planni
    - YearMonth
    - Net Working Capital
    - Company Code
-  The easiest way to achieve this is to first select all columns, exclude all columns and afterwards restore the three needed columns. 
+
+The easiest way to achieve this is to first select all columns, exclude all columns and afterwards restore the three needed columns. 
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_7.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_8.png)
 
 7. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click deploy anyway.
-   Business name: NWC_Planning
-   Technical name: NWC_Planning
-   Exposed for consumption: ON
+   - Business name: NWC_Planning
+   - Technical name: NWC_Planning
+   - Exposed for consumption: ON
+
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_9.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_10.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_11.png) 
