@@ -14,11 +14,18 @@ In this exercise, you will build a story on the of the model that you created in
 4. Add a table to the canvas by dragging it to the canvas. 
 ![](../../images/ex2_5.png)
 
-5. Configure the planning table as follows. Basic story building skills are assumed. Hence, no click-by-click guide is provided. Instead, refer to the gif. 
-- Rows: add `company code`
-- Columns: add `TimeSeriesYearMonth` dimension
-- Filter: `2024`, `2025`, `2026` on `TimeSeriesYearMonth`
-- Unbooked on for `TimeSeriesYearMonth` and `Version` dimensions
+5. Configure the planning table as follows. Basic story building skills are assumed. Hence, no click-by-click guide is provided. Instead, refer to the gif.
+
+Rows: 
+- `Company Code`
+
+Columns: 
+- `Version`
+- `TimeSeriesYearMonth`
+
+Filter:
+- `TimeSeriesYearMonth`: `2024`, `2025`, `2026`
+- *Unbooked Data* on for `TimeSeriesYearMonth` and `Version` dimensions
 ![](../../images/ex2_1.gif)
 
 6. Right-click on the marked cell and freeze panes.
