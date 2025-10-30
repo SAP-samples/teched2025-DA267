@@ -14,7 +14,7 @@ In this exercise, you will build a view from which we will later create a planni
 > [!NOTE]
 > You'll see more views and tables shared with your space than in the screenshots
 
-3. Create a graphical view.
+3. Create a graphical view
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_3.png)
 
 4. Pull the shared view `Net Working Capital Time Series Currency Role (HL)` on to the canvas
