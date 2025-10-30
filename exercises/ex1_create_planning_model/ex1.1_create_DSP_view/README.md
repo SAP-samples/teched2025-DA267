@@ -9,7 +9,7 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/dfa1c77d51d821227bf0e65ee7b8e9adf514a5d6/images/ex1.1_1.png)
 
 2. Choose your space. 
-![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex0_3.png)
+![](../../../images/ex0_3.png)
 
 > [!NOTE]
 > You'll see more views and tables shared with your space than in the screenshots. 
