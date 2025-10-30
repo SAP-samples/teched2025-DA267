@@ -27,7 +27,7 @@ In this exercise, we will first build a union to combine plan and actual data. T
 4. Map the `Currency`, `Version`, `Year Month` and `Company Code` columns by dragging and dropping the source columns on to the target columns as shown in the example below. The relations will be drawn accordingly.
 ![](../../../images/ex3.1_18.png)
 
-5. Change the semantic type of the `Year Month` column to *Calendar - Year Month*. To do so, click on the three dots and go to *Semantic Type* 
+5. Change the semantic type of the `Year Month` column to *Calendar - Year Month*. To do so, click on the three dots and go to *Semantic Type*.
 ![](../../../images/ex3.1_7a.png)
 
 6. Add an association to the shared time dimension view `Time Dimension - Month`. Map the columns.
