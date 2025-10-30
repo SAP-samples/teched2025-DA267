@@ -10,7 +10,7 @@
 
 ## SAP Datasphere 
 ### Space set-up
-A space is available and assigned for each participant couple. The space name is AC239494Uxx (fill xx with your user number that you find on your PC; e.g., AC239494U01). 
+A space is available and assigned for each participant couple. The space name is AC239494U**xx** (fill **xx** with your user number that you find on your PC; e.g., AC239494U**01**). 
 ![](../../images/ex0_3.png)
 > [!NOTE]  
 > The exercise was done in space *TechEd2025_DA267_99*. Screenshots will reflect this space in SAP Datasphere and SAP Analytics Cloud. You are using *AC239494Uxx* instead. 
