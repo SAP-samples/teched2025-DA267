@@ -8,7 +8,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 1. Go to the modeler in [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_1.png)
 
-2. Create new model
+2. Create new model. We start with data.
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/04340a99e350ed2729b04867a0f2c2f3eade5cd6/images/ex1.2_2.png)
 
 3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name `AC239494Uxx`. Use this space. 
