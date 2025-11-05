@@ -18,7 +18,7 @@ In this exercise, you will build a view from which we will later create a planni
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_3.png)
 
 4. Pull the shared view `Net Working Capital Time Series Currency Role (HL)` on to the canvas
-![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_4.png)
+![](../../../images/ex1.1_4.png)
 
 5. Filter on the year 2024 by adding a filter and entering the following expression: 
    <br>```TimeSeriesYearMonth >=202401 AND Currency ='USD'```
