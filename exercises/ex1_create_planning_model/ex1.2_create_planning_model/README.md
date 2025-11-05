@@ -24,7 +24,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 ![](../../../images/ex1.2_28.png)
 
 > [!NOTE]  
-> Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this exercise. So don't worry.
+> Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
 
 > [!NOTE]  
 > Small UI changes were introduced with QRC4.2025. The data preview and model details are now displayed differently in the toolbar as you can see in the screenshot above. 
@@ -42,7 +42,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 10. Create a (public) dimension table for Company Code. 
 
 > [!CAUTION]
-> Give it a user-specific name and make it a **public** dimension. Otherwise, you will not be able to proceed with the next step. Where we load master data.
+> Give it a user-specific name and make it a **public** dimension. Otherwise, you will not be able to proceed with the next step in which we'll load master data.
 
 ![](../../../images/ex1.2_10.png)
 ![](../../../images/ex1.2_11.png)
