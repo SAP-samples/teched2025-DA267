@@ -34,7 +34,8 @@ The easiest way to achieve this is to first select all columns, exclude all colu
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_7.png)
 ![](https://github.com/SAP-samples/teched2025-DA267/blob/ed12e696e4b88e9065af5eb316304ef7685e590c/images/ex1.1_8.png)
 
-7. Set the right view properties and deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click *Deploy Anyway*.
+7. Set the right view properties. Afterwards, deploy the view. This saves and deploys the view in your space. The warning is not important for our scenario, so click *Deploy Anyway*.
+<br>View properties:
    - Business name: `NWC_Planning`
    - Technical name: `NWC_Planning`
    - Exposed for consumption: `ON`
