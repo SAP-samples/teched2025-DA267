@@ -30,22 +30,26 @@ In this exercise, we will first build a union to combine plan and actual data. T
 5. Change the semantic type of the `Year Month` column to *Calendar - Year Month*. To do so, click on the three dots and go to *Semantic Type*.
 ![](../../../images/ex3.1_7a.png)
 
-6. Add an association to the shared time dimension view `Time Dimension - Month`. Map the columns.
+6. Add an association to the shared time dimension view `Time Dimension - Month`. One column needs to be mapped as shown below.
 ![](../../../images/ex3.1_9a.png)
 ![](../../../images/ex3.1_10.png)
+
+> [!NOTE]  
+> Don't click directly on the blue name. This will open the view in another window. You need to click somewhere next to it. 
+
 ![](../../../images/ex3.1_11a.png)
 
-7. Add another association to the shared dimension view `Company Code Master (View)` and map the columns.
+8. Add another association to the shared dimension view `Company Code Master (View)`. One column needs to be mapped as shown below.
 ![](../../../images/ex3.1_12.png)
 ![](../../../images/ex3.1_13a.png)
 
-8. Provide a business name and a technical name for your view.
+9. Provide a business name and a technical name for your view.
 ![](../../../images/ex3.1_8a.png)
 
-9. Deploy. 
+10. Deploy. 
 ![](../../../images/ex3.1_14a.png)
 
-10. Wait until the view is deployed. Afterwards click *Create Analytic Model*.
+11. Wait until the view is deployed. Afterwards click *Create Analytic Model*.
 ![](../../../images/ex3.1_15a.png)
 
 This concludes exercise 3.1. Now we move on to create an analytic model for plan vs. actual reporting as described in [exercise 3.2 - Create analytic model](../ex3.2_analytic_model/README.md).
