@@ -32,7 +32,7 @@ Columns:
 ![](../../../images/ex6.2_6.png)
 
 > [!NOTE]  
-> Remeber that the transactional data can differ from the screenshots.
+> Remember that the transactional data can differ from the screenshots.
 
 
 Done! You completed the entire exercise. Congratulations!
