@@ -50,7 +50,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 11. Open the dimension table to edit it. 
 ![](../../../images/ex1.2_12.png)
 
-12. Add a parent-child hierarchy. You can give it any name. 
+12. Add a parent-child hierarchy. You can give it any name. We'll fill that in the next steps and use it to group company codes by region.
 ![](../../../images/ex1.2_13.png)
 ![](../../../images/ex1.2_14.png)
 
