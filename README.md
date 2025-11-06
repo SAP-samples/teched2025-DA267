@@ -1,4 +1,4 @@
-# DA267 - Seamless planning for xP&A in SAP Business Data Cloud (SAP BDC)
+# DA267 - Seamless planning for xP&A in SAP Business Data Cloud (SAP BDC) 
 
 ## Description
 
