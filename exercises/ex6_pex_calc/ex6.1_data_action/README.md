@@ -42,6 +42,9 @@ We will use a data action to calculate the salaries. It shall first populate the
 ![](../../../images/ex6.1_11.png)
 
 11. Enter the following script:
+> [!CAUTION]  
+> You need to adjust the script based on the name of your company code dimension. If any other names differ in your model (e.g., version names), pay attention to that as well. 
+
 ```
 //-----------------------------------------------------------------------------------
 //The data region against which the formulas will be executed.
