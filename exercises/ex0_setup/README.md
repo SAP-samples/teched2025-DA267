@@ -34,3 +34,12 @@ Choose your favorite theme like this.
 
 Now, move on to the first real exercise. [Exercise 1 - Create planning model](../ex1_create_planning_model/ex1.1_create_DSP_view/README.md)
 
+## Back-up systems
+We have back-up systems in the US. 
+### Links
+- [SAP Analytics Cloud](https://trial-bdc-sac-us3.us10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
+- [SAP Datasphere](https://trial-bdc-datasphere-us3.us10.hcs.cloud.sap/dwaas-core/index.html)
+### Log-in information:
+- Usernames:AC241850U01 - AC241850U70
+- Password:ObYyYZGwYS1!
+
