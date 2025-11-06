@@ -9,7 +9,7 @@ In this exercise, we use the view created in [exercise 3.1](../ex3.1_union) and 
 1. In the first step, we review the analytic model. As you see, measure, dimensions and associations are taken over from the union that was created earlier. The company code dimension is time-dependent as indicated by the clock icon.
 ![](../../../images/ex3.2_1.png)
 
-2. Provide a business name and a technical name and save the analytic model. Do not deploy it yet. We'll come back later.
+2. Provide a business name and a technical name and *save* the analytic model. Do not deploy it yet. We'll come back later.
 ![](../../../images/ex3.2_2.png)
 
 3. We want to create a reference date variable to filter our time-dependent company code master data. The variable shall have a dynamic default value referring to today's date and should be adjustable for the reporting users. This is why we need to create a lookup entity in the next steps. 
