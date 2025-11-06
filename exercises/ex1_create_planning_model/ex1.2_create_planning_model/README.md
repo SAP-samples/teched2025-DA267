@@ -69,7 +69,7 @@ In this exercise, we will use the `NWC_PLANNING` view from SAP Datasphere and us
 ![](../../../images/ex1.2_18.png)
 ![](../../../images/ex1.2_19.png)
 
-16. Drag and drop `ID`, `Parent`, and `Text` to the *Selected Data* section. The master data in SAP Datasphere is time-dependent. Since SAP Analytics Cloud does not support this, we set a filter on a key date. Pull `Valid_From` on to the *Filters* section. Since we want to plan for the year 2026, select `Equal to 202601` (you can use the value help).
+16. Drag and drop `ID`, `Parent`, and `Text` to the *Selected Data* section. The master data in SAP Datasphere is time-dependent. Since SAP Analytics Cloud does not support this, we set a filter on a key date. Pull `Valid_From` on to the *Filters* section. Since we want to plan for the year 2026, select `Equal to 2026001` (you can use the value help).
 ![](../../../images/ex1.2_20.png)
 
 17. Select `ID` as primary key. This is a new feature delivered with QRC4.2025 to avoid data inconsistencies due to unlear value sorting. 
