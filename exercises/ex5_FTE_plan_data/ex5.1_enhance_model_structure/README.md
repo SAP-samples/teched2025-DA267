@@ -43,7 +43,7 @@ In this exercise, we will add measures and dimensions to make the planning model
 ![](../../../images/ex5.1_9.png)
 ![](../../../images/ex5.1_10.png) 
   
-7. Open [this Excel file](../Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table. Add `<root>`  as parent for `Unassigned`.
+7. Open [this Excel file](https://github.com/SAP-samples/teched2025-DA267/blob/6771509ac29e8557c64bdabf824c64c771f720d3/exercises/ex5_FTE_plan_data/ex5.1_enhance_model_structure/Account.xlsx). You can download the file via the download button or *View raw*. Paste the entries into the dimension table. Add `<root>`  as parent for `Unassigned`.
 ![](../../../images/ex5.1_11.png)
 ![](../../../images/ex5.1_18.png)
 
