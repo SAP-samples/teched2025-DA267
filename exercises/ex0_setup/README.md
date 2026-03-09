@@ -5,8 +5,8 @@
 - [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 
 ## Log-in
-- User/mail: ac239494u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your desk; e.g., `ac239494u01@sapexperienceacademy.com`
-- Password: `ObtOv3PGiV1!`
+- User/mail: ac284994u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your desk; e.g., `ac284994u01@sapexperienceacademy.com`
+- Password: `ObNDMfymX61!`
 > [!NOTE]  
 > The sign on your desk says 'User 001', for example. Only use the last two digits of your user number, so ignore the first leading zero.
 
