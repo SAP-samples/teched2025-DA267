@@ -5,8 +5,8 @@
 - [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 
 ## Log-in
-- User/mail: ac239494u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your desk; e.g., `ac239494u01@sapexperienceacademy.com`
-- Password: `ObtOv3PGiV1!`
+- User/mail: ac284994u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your desk; e.g., `ac284994u01@sapexperienceacademy.com`
+- Password: `ObNDMfymX61!`
 > [!NOTE]  
 > The sign on your desk says 'User 001', for example. Only use the last two digits of your user number, so ignore the first leading zero.
 
@@ -35,13 +35,4 @@ Choose your favorite theme like this.
 > The selection of the SAP Analytics Cloud theme makes no difference from a functional perspective. Since all screenshots were taken in *SAP Belize*, it may be slightly easier to navigate based on the screenshots when using the same theme. Horizon themes offer a more modern UI as well as high-contrast options. 
 
 Now, move on to the first real exercise. [Exercise 1 - Create planning model](../ex1_create_planning_model/ex1.1_create_DSP_view/README.md)
-
-## Back-up systems
-We have back-up systems in the US. 
-### Links
-- [SAP Analytics Cloud](https://trial-bdc-sac-us3.us10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
-- [SAP Datasphere](https://trial-bdc-datasphere-us3.us10.hcs.cloud.sap/dwaas-core/index.html)
-### Log-in information:
-- Usernames:AC241850U01 - AC241850U70
-- Password:ObYyYZGwYS1!
 
